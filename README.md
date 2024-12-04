@@ -1,4 +1,4 @@
-# ensemble-clustree
+# Classificador de seleção de subespaços com clustree 
 
 ## Algorithms
 
